@@ -1,0 +1,11 @@
+.days-container {
+  display: flex;
+  justify-content: left;
+  flex-direction: column;
+}
+.days-container * {
+  margin-left: auto;
+  padding-right: 3%;
+  line-height: 0;
+  margin-right: 0px;
+}
