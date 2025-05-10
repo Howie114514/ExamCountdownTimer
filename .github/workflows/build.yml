@@ -19,4 +19,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: exam-countdown-timer-installer.exe
-          path: ./dist/exam-countdown-timer-1.0.0.exe
+          path: ./dist/exam-countdown-timer-1.0.0-setup.exe
